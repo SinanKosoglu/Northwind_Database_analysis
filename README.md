@@ -2,7 +2,7 @@
 
 In this analysis sample dataset from Northwind database has taken and step by step I have created an analysis within some sections that stood out.
 
-# Tool stack:
+# Tech stack:
 
 - Postgre sql - Querying
 - Jupyter notebook - Python analysis / visualization
